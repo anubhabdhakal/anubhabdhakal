@@ -16,6 +16,7 @@ Advocating for responsible AI development to ensure technology serves humanity p
 
 
 Mission
+
 To harness the power of AI and ML in crafting solutions that drive societal progress and enhance quality of life. Let's innovate with purpose and pave the way for a smarter, more inclusive future.
 
 Connect with Me at LinkedIn  
